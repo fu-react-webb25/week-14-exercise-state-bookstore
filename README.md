@@ -1,6 +1,6 @@
 # Vecka 14: Book Store del 2 - Veckans Code Review-uppgift
 
-Denna vecka återvänder vi till vår Bok Store-applikation för att applicera de nya tekniker vi lärt oss, samt repetera några gamla. Övningen består av ett antal steg, där svårighetsgraden hela tiden ökar något, och där ni gör så långt ni hinner / klarar av.
+Denna vecka återvänder vi till vår Bookstore-applikation för att applicera de nya tekniker vi lärt oss, samt repetera några gamla. Övningen består av ett antal steg, där svårighetsgraden hela tiden ökar något, och där ni gör så långt ni hinner / klarar av.
 
 ## Steg 1
 
